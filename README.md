@@ -26,10 +26,11 @@
 ---
 
 ## 🎓 **Certifications**
-- ✅ [AWS Certified Solutions Architect – Associate (SAA C02)](https://www.credly.com/badges/646ae50b-a807-4272-89c5-c2d27010d8e4?source=linked_in_profile)  
+- ✅ [AWS Certified Solutions Architect – Professional (SAP C02)](https://www.credly.com/badges/b85a85b5-a92c-4762-9646-5e63e6b3e4e4)  
 - ✅ [AWS Certified Solutions Architect – Associate (SAA C03)](https://www.credly.com/badges/23d44c15-3718-4617-a628-cd84104de5ae)  
-- ✅ [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/8223eaf7-c628-457c-8ff7-b0155cc26a80?source=linked_in_profile)  
-- ✅ [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/48cacdb9-6ef4-4d3d-8aec-75386e012ed6?source=linked_in_profile)  
+- ✅ [AWS Certified Solutions Architect – Associate (SAA C02)](https://www.credly.com/badges/646ae50b-a807-4272-89c5-c2d27010d8e4?source=linked_in_profile)  
+- ✅ [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://www.credly.com/badges/8223eaf7-c628-457c-8ff7-b0155cc26a80?source=linked_in_profile)  
+- ✅ [Microsoft Certified: Azure Fundamentals (AZ-900](https://www.credly.com/badges/48cacdb9-6ef4-4d3d-8aec-75386e012ed6?source=linked_in_profile)  
 
 ---
 
