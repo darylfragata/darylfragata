@@ -20,8 +20,8 @@
 ---
 
 ## 📂 **Current Projects**
-- Automating **AWS Security Groups** via **GitLab CI/CD** pipelines to improve efficiency and reduce manual intervention.
-- Integrating **ServiceNow** with **GitLab** for streamlined change management and deployment automation.
+- [**AWS SG Automation + GitLab–ServiceNow Integration**](https://github.com/darylfragata/aws-sg-automation) — A unified solution that automates **AWS Security Group** changes via **GitLab CI/CD**, while integrating with **ServiceNow** to streamline change request management and deployment workflows.
+- Automating [**AWS Alerts to ServiceNow Incidents**](https://github.com/darylfragata/aws-alerts-to-servicenow) using **EventBridge**, **Lambda**, and the **ServiceNow REST API** for real-time ITSM integration.
 
 ---
 
