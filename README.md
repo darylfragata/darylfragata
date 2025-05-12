@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Daryl!
 
+![](https://komarev.com/ghpvc/?username=darylfragata&abbreviated=true)
+
 🚀 **AWS Cloud Engineer** | 🛠️ **DevOps Practitioner** | 📚 **Continuously Expanding Expertise in DevOps**
 
 ---
