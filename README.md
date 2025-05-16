@@ -14,9 +14,9 @@
 
 ---
 
-## 🔧 **Technical Skills**
+## 🔧 **Current Technical Skills**
 - **Cloud Platforms:** AWS  
-- **DevOps Tools:** GitLab, GitHub, Terraform  
+- **DevOps Tools:** GitLab, GitHub, Terraform
 - **Operating Systems:** Linux, Windows  
 - **Scripting:** Bash, PowerShell, Python (basic proficiency)  
 
