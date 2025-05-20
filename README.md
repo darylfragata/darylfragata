@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Daryl!
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://github.com/darylfragata/darylfragata/blob/main/FragataDaryl-Resume.pdf)
 
 ![](https://komarev.com/ghpvc/?username=darylfragata&abbreviated=true)
 
