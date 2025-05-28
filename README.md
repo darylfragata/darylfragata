@@ -3,15 +3,15 @@
 
 ![](https://komarev.com/ghpvc/?username=darylfragata&abbreviated=true)
 
-🚀 **AWS Cloud Engineer** | 🛠️ **DevOps Practitioner** | 📚 **Continuously Expanding Expertise in DevOps**
+**AWS Cloud Engineer** | **DevOps Practitioner** | **Continuously Expanding Expertise in DevOps**
 
 ---
 
 ## 👨‍💻 **About Me**
-- 🌟 As an **AWS Cloud Engineer**, I specialize in automating workflows and developing scalable cloud solutions to enhance operational efficiency.
-- 🧰 Proficient in **AWS**, **GitLab CI/CD**, **Terraform**, **Bash**, and **Python scripting** for automation.
-- 🌱 Experienced in managing both **Linux** and **Windows** systems, with skills in **PowerShell** and **Bash** scripting.
-- 🚀 Actively expanding my knowledge in **DevOps**, focusing on **CI/CD**, **automation tools**, and **cloud infrastructure optimization**.
+- As an **AWS Cloud Engineer**, I specialize in automating workflows and developing scalable cloud solutions to enhance operational efficiency.
+- Proficient in **AWS**, **GitLab CI/CD**, **Terraform**, **Bash**, and **Python scripting** for automation.
+- Experienced in managing both **Linux** and **Windows** systems, with skills in **PowerShell** and **Bash** scripting.
+- Actively expanding my knowledge in **DevOps**, focusing on **CI/CD**, **automation tools**, and **cloud infrastructure optimization**.
 
 ---
 
