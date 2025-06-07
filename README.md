@@ -21,10 +21,11 @@
 
 ---
 
-## 📂 **Projects**
+## 📂 **Projects and Ideas**
 - [**AWS SG Automation + GitLab–ServiceNow Integration**](https://github.com/darylfragata/aws-sg-automation) — A unified solution that automates **AWS Security Group** changes via **GitLab CI/CD**, while integrating with **ServiceNow** to streamline change request management and deployment workflows.
 - [**AWS Alerts to ServiceNow Incident Integration**](https://github.com/darylfragata/aws-alerts-to-servicenow) — Using **EventBridge**, **Lambda**, and the **ServiceNow REST API** to automatically create incidents from AWS alerts.
 - [**AWS EC2 State Change Alerts**](https://github.com/darylfragata/aws-ec2-state-change-alerts) — Sends automatic alerts when your EC2 instances start, stop, or change state to help you keep track of them easily
+- [**AWS GitHub Self-Hosted Runner via Terraform**](https://github.com/darylfragata/aws-selfhosted-github-runner) — Automates the deployment of a self-hosted GitHub Actions runner on AWS EC2 using Terraform. The solution includes S3 for state management and securely fetches tokens from AWS SSM Parameter Store during runner setup.
 
 ---
 
