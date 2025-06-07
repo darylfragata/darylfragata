@@ -1,9 +1,6 @@
 # Hi there 👋, I'm Daryl!
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://github.com/darylfragata/darylfragata/blob/main/FragataDaryl-Resume.pdf)
 
-![](https://komarev.com/ghpvc/?username=darylfragata&abbreviated=true)
-
-**AWS Cloud Engineer** | **DevOps Practitioner** | **Continuously Expanding Expertise in DevOps**
+**AWS Cloud Engineer** | **DevOps Enthusiast** | **Continuously Expanding Expertise in DevOps**
 
 ---
 
@@ -13,6 +10,7 @@
 - Experienced in managing both **Linux** and **Windows** systems, with skills in **PowerShell** and **Bash** scripting.
 - Actively expanding my knowledge in **DevOps**, focusing on **CI/CD**, **automation tools**, and **cloud infrastructure optimization**.
 
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://github.com/darylfragata/darylfragata/blob/main/FragataDaryl-Resume.pdf)
 ---
 
 ## 🔧 **Technical Skills**
@@ -46,4 +44,4 @@
 
 ---
 
-😄 *"Excited to simplify cloud solutions and enhance workflows, one deployment at a time!"*
+![](https://komarev.com/ghpvc/?username=darylfragata&abbreviated=true)
