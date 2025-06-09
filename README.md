@@ -6,7 +6,7 @@
 ## 👨‍💻 **About Me**
 - As an **AWS Cloud Engineer**, I focus on building and managing cloud infrastructure while expanding my knowledge in automation and scalable cloud solutions to improve operational efficiency.
 - Experienced in managing both **Linux** and **Windows** systems, with skills in **PowerShell** and **Bash** scripting.
-- Currently expanding my knowledge in **DevOps**, focusing on **CI/CD**, **automation tools**, **cloud infrastructure optimization**, **monitoring solutions**, and **containerization technologies** such as **Docker** and **Kubernetes**.
+- Currently expanding my knowledge in **DevOps** domain by focusing on essential tools, best practices, and key areas such as CI/CD, automation, cloud infrastructure optimization, monitoring solutions, and containerization technologies like Docker and Kubernetes.
 
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://github.com/darylfragata/darylfragata/blob/main/FragataDaryl-Resume.pdf)
 ---
