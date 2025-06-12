@@ -11,7 +11,7 @@
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://github.com/darylfragata/darylfragata/blob/main/FragataDaryl-Resume.pdf)
 ---
 
-##🔧 **Technical Skills**
+## 🔧 **Technical Skills**
 - **Cloud Platforms:** AWS  
 - **DevOps Tools:** GitLab, GitHub, Terraform, Ansible
 - **Operating Systems:** Linux, Windows  
