@@ -21,11 +21,13 @@
 - [**AWS DevOps Homelab Infrastructure with Terraform**](https://github.com/darylfragata/aws-devops-homelab) — A comprehensive Terraform project automating AWS homelab infrastructure including VPC, IAM roles, security groups, S3 buckets, and EC2 instances. Designed for modularity, environment segregation, and seamless GitHub Actions CI/CD automation.
 - [**AWS GitHub Self-Hosted Runner via Terraform**](https://github.com/darylfragata/aws-selfhosted-github-runner) — Automates the deployment of a self-hosted GitHub Actions runner on AWS EC2 using Terraform. The solution includes S3 for state management and securely fetches tokens from AWS SSM Parameter Store during runner setup.
 - [**AWS SG Automation + GitLab–ServiceNow Integration**](https://github.com/darylfragata/aws-sg-automation) — A unified solution that automates **AWS Security Group** changes via **GitLab CI/CD**, while integrating with **ServiceNow** to streamline change request management and deployment workflows.
-- [**AWS Alerts to ServiceNow Incident Integration**](https://github.com/darylfragata/aws-alerts-to-servicenow) — Using **EventBridge**, **Lambda**, and the **ServiceNow REST API** to automatically create incidents from AWS alerts.
 - [**AWS EC2 State Change Alerts**](https://github.com/darylfragata/aws-ec2-state-change-alerts) — Sends automatic alerts when your EC2 instances start, stop, or change state to help you keep track of them easily
 
 
 ## 🎓 **Certifications**
+**IAC Certification:**
+- ✅ [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/df856938-fda1-4359-bb95-d556c59dbaf1/linked_in?t=t1v78h) 
+
 **AWS Certifications:**
 - ✅ [AWS Certified Solutions Architect – Professional (SAP C02)](https://www.credly.com/badges/b85a85b5-a92c-4762-9646-5e63e6b3e4e4)  
 - ✅ [AWS Certified Solutions Architect – Associate (SAA C03)](https://www.credly.com/badges/23d44c15-3718-4617-a628-cd84104de5ae)  
