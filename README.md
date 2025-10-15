@@ -11,10 +11,11 @@
 ---
 
 ## 🔧 **Technical Skills**
-- **Cloud Platforms:** AWS  
+- **Cloud Platforms:** AWS, Azure
 - **DevOps Tools:** GitLab, GitHub, Terraform, Ansible
-- **Operating Systems:** Linux, Windows  
-- **Scripting:** Bash, PowerShell, Python (basic proficiency)  
+- **Operating Systems:** Linux, Windows
+- **Scripting:** Bash, PowerShell, Python (basic proficiency)
+- **Containerization & Orchestration:** Docker, Kubernetes (Self-studying / Working knowledge)
 
 
 ## 📂 **Projects and Ideas**
