@@ -1,49 +1,63 @@
 # Hi there 👋, I'm Daryl!
 
-**AWS Cloud Engineer** | **DevOps Enthusiast** | **Continuously Expanding Expertise in DevOps**
+**Cloud / DevOps Engineer** | **Cloud Infrastructure • Infrastructure as Code • CI/CD • Automation • Agentic AI**
 
+## About Me
 
-## 👨‍💻 **About Me**
-- As an **AWS Cloud Engineer**, I focus on building and managing cloud infrastructure while expanding my knowledge in automation and scalable cloud solutions to improve operational efficiency.
-- Currently expanding my knowledge in **DevOps** domain by focusing on essential tools, best practices, and key areas such as CI/CD, automation, cloud infrastructure optimization, monitoring solutions, and containerization technologies like Docker and Kubernetes.
+I'm a **Cloud / DevOps Engineer** focused on building, automating, and managing cloud infrastructure.
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://github.com/darylfragata/darylfragata/blob/main/FragataDaryl-Resume.pdf)
----
+I continuously expand my expertise through **professional experience, hands-on projects, homelab environments, and practical engineering practices**, with a focus on cloud infrastructure, Infrastructure as Code, CI/CD, automation, security, and scalable cloud solutions.
 
-## 🔧 **Technical Skills**
-- **Cloud Platforms:** AWS, Azure
-- **DevOps Tools:** GitLab, GitHub, Terraform, Ansible
+I'm also exploring **AI-assisted development and Agentic AI**, including tools such as **Claude Code**, to understand how AI agents can be integrated into software development, infrastructure automation, and DevOps workflows.
+
+I'm particularly interested in building **maintainable infrastructure, reusable Terraform modules, reliable CI/CD pipelines, and automation that improves operational efficiency**.
+
+## Technical Skills
+
+- **Cloud:** AWS
+- **Infrastructure as Code:** Terraform, Ansible
+- **CI/CD & Version Control:** GitHub, GitLab, Azure DevOps, Git
 - **Operating Systems:** Linux, Windows
-- **Scripting:** Bash, PowerShell, Python (basic proficiency)
-- **Containerization & Orchestration:** Docker, Kubernetes (Self-studying / Working knowledge)
+- **Scripting & Automation:** Bash, PowerShell, Python
+- **Cloud & Infrastructure:** VPC, IAM, EC2, S3, Lambda, CloudFront, API Gateway, DynamoDB
+- **AI-Assisted Development:** Claude Code, Agentic AI concepts
 
+## Projects
 
-## 📂 **Projects and Ideas**
-- [**AWS DevOps Homelab Infrastructure with Terraform**](https://github.com/darylfragata/aws-devops-homelab) — A comprehensive Terraform project automating AWS homelab infrastructure including VPC, IAM roles, security groups, S3 buckets, and EC2 instances. Designed for modularity, environment segregation, and seamless GitHub Actions CI/CD automation.
-- [**AWS GitHub Self-Hosted Runner via Terraform**](https://github.com/darylfragata/aws-selfhosted-github-runner) — Automates the deployment of a self-hosted GitHub Actions runner on AWS EC2 using Terraform. The solution includes S3 for state management and securely fetches tokens from AWS SSM Parameter Store during runner setup.
-- [**AWS SG Automation + GitLab–ServiceNow Integration**](https://github.com/darylfragata/aws-sg-automation) — A unified solution that automates **AWS Security Group** changes via **GitLab CI/CD**, while integrating with **ServiceNow** to streamline change request management and deployment workflows.
-- [**AWS EC2 State Change Alerts**](https://github.com/darylfragata/aws-ec2-state-change-alerts) — Sends automatic alerts when your EC2 instances start, stop, or change state to help you keep track of them easily
+- [**AWS DevOps Homelab Infrastructure with Terraform**](https://github.com/darylfragata/aws-devops-homelab) — A Terraform-based AWS homelab focused on building reusable and modular cloud infrastructure. The project includes VPC, IAM, security groups, S3, EC2, environment separation, and CI/CD automation.
 
+- [**AWS GitHub Self-Hosted Runner via Terraform**](https://github.com/darylfragata/aws-selfhosted-github-runner) — Automates the deployment of a self-hosted GitHub Actions runner on AWS EC2 using Terraform, with S3-based state management and AWS SSM Parameter Store for secure configuration.
 
-## 🎓 **Certifications**
-**IAC Certification:**
-- ✅ [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/df856938-fda1-4359-bb95-d556c59dbaf1/linked_in?t=t1v78h) 
+- [**AWS Security Group Automation + GitLab–ServiceNow Integration**](https://github.com/darylfragata/aws-sg-automation) — Automates AWS Security Group changes through GitLab CI/CD while integrating with ServiceNow to streamline change management and deployment workflows.
 
-**AWS Certifications:**
-- ✅ [AWS Certified Solutions Architect – Professional (SAP C02)](https://www.credly.com/badges/b85a85b5-a92c-4762-9646-5e63e6b3e4e4)  
-- ✅ [AWS Certified Solutions Architect – Associate (SAA C03)](https://www.credly.com/badges/23d44c15-3718-4617-a628-cd84104de5ae)  
-- ✅ [AWS Certified Solutions Architect – Associate (SAA C02)](https://www.credly.com/badges/646ae50b-a807-4272-89c5-c2d27010d8e4?source=linked_in_profile)
+- [**AWS EC2 State Change Alerts**](https://github.com/darylfragata/aws-ec2-state-change-alerts) — Automatically sends notifications when EC2 instances change state, providing visibility into instance start, stop, and other state transitions.
 
-**Microsoft Certifications:**
-- ✅ [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://www.credly.com/badges/8223eaf7-c628-457c-8ff7-b0155cc26a80?source=linked_in_profile)  
-- ✅ [Microsoft Certified: Azure Fundamentals (AZ-900](https://www.credly.com/badges/48cacdb9-6ef4-4d3d-8aec-75386e012ed6?source=linked_in_profile)  
+## Certifications
 
+### HashiCorp
 
-## 📢 **Let's Connect**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/fragatadarylj/)
-- 📫 [Email](mailto:fragatadarylj@gmail.com)
-- 🔗 [GitHub](https://github.com/darylfragata)
-- 🏅 [Credly Profile](https://www.credly.com/users/daryl-j-fragata.b9508409)
+- [**HashiCorp Certified: Terraform Associate (003)**](https://www.credly.com/badges/df856938-fda1-4359-bb95-d556c59dbaf1/linked_in?t=t1v78h)
 
+### AWS
+
+- [**AWS Certified Solutions Architect – Professional (SAP-C02)**](https://www.credly.com/badges/b85a85b5-a92c-4762-9646-5e63e6b3e4e4)
+- [**AWS Certified Solutions Architect – Associate (SAA-C03)**](https://www.credly.com/badges/23d44c15-3718-4617-a628-cd84104de5ae)
+- [**AWS Certified Solutions Architect – Associate (SAA-C02)**](https://www.credly.com/badges/646ae50b-a807-4272-89c5-c2d27010d8e4?source=linked_in_profile)
+
+### Microsoft
+
+- [**Microsoft Certified: Azure Administrator Associate (AZ-104)**](https://www.credly.com/badges/8223eaf7-c628-457c-8ff7-b0155cc26a80?source=linked_in_profile)
+- [**Microsoft Certified: Azure Fundamentals (AZ-900)**](https://www.credly.com/badges/48cacdb9-6ef4-4d3d-8aec-75386e012ed6?source=linked_in_profile)
+
+## Resume
+
+[**View My Resume**](https://github.com/darylfragata/darylfragata/blob/main/FragataDaryl-Resume.pdf)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/fragatadarylj/)
+- [Email](mailto:fragatadarylj@gmail.com)
+- [GitHub](https://github.com/darylfragata)
+- [Credly](https://www.credly.com/users/daryl-j-fragata.b9508409)
 
 ![](https://komarev.com/ghpvc/?username=darylfragata&abbreviated=true)
