@@ -56,7 +56,6 @@ I'm particularly interested in building **maintainable infrastructure, reusable 
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/fragatadarylj/)
-- [Email](mailto:fragatadarylj@gmail.com)
 - [GitHub](https://github.com/darylfragata)
 - [Credly](https://www.credly.com/users/daryl-j-fragata.b9508409)
 
