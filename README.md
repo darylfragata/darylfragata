@@ -15,6 +15,6 @@ I'm particularly interested in building **maintainable infrastructure, reusable 
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/fragatadarylj/)
-- [Credly](https://www.credly.com/users/daryl-j-fragata.b9508409)
+- [Credly](https://www.credly.com/users/daryl.fragata)
 
 ![](https://komarev.com/ghpvc/?username=darylfragata&abbreviated=true)
